@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Homescreen Creator",
+        "description": "An awesome enhancement to your homescreen!",
+        "icon_url": "https://broank.com/assets/img/TouchIcon.png?h=5df874cc087cb7ee45f004a8d58f9e1c",
+        "screenshots" : [
+            "https://broank.com/assets/img/shortcutsHSC.png?h=d0e00736cc28a0ad6de4b1f8de8d4ec7",
+            "https://broank.com/assets/img/shortcutsHSC.png?h=d0e00736cc28a0ad6de4b1f8de8d4ec7",
+            "https://broank.com/assets/img/shortcutsHSC.png?h=d0e00736cc28a0ad6de4b1f8de8d4ec7"
+        ],
+        "author": "Broank",
+        "download_urls" : {
+            "0.9": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.1": "https://google.com",
+            "0.5": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.7": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.2": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840"
+        },
+        "depiction_url": "https://broank.com/HSC.html",
+        "min_version": 15.2,
+        "max_version": 16.0
+    },
+    {
+        "name": "ClassicLS",
+        "description": "Make your Lockscreen nostalgic!",
+        "icon_url": "https://broank.com/assets/img/TouchIcon.png?h=5df874cc087cb7ee45f004a8d58f9e1c",
+        "screenshots" : [
+            "https://broank.com/assets/img/shortcutsHSC.png?h=d0e00736cc28a0ad6de4b1f8de8d4ec7"
+        ],
+        "author": "Broank",
+        "download_urls" : {
+            "0.9": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.1": "https://google.com",
+            "0.5": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.7": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.2": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840"
+        },
+        "depiction_url": "https://broank.com/Shortcuts.html",
+        "min_version": 15.2,
+        "max_version": 16.0
+    },
+    {
+        "name": "Vertiblur",
+        "description": "Blur half of your homescreen!",
+        "icon_url": "https://broank.com/assets/img/TouchIcon.png?h=5df874cc087cb7ee45f004a8d58f9e1c",
+        "screenshots" : [
+            "https://broank.com/assets/img/shortcutsHSC.png?h=d0e00736cc28a0ad6de4b1f8de8d4ec7"
+        ],
+        "author": "Broank",
+        "download_urls" : {
+            "0.9": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.1": "https://google.com",
+            "0.5": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.7": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.2": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840"
+        },
+        "depiction_url": "https://broank.com/Shortcuts.html",
+        "min_version": 15.2,
+        "max_version": 16.0
+    },
+    {
+        "name": "Wetr",
+        "description": "The weather inside is beautiful.",
+        "icon_url": "https://broank.com/assets/img/TouchIcon.png?h=5df874cc087cb7ee45f004a8d58f9e1c",
+        "screenshots" : [
+            "https://broank.com/assets/img/shortcutsWetr.png?h=b49b652a4e15add4630e344aa72ac55b",
+            "https://broank.com/assets/img/shortcutsWetr2.png?h=3310851266670ad6e52680fdc223e2f7",
+            "https://broank.com/assets/img/shortcutsWetr3.png?h=c77cbd9149878d26cfe478c6cd4e4f90",
+            "https://broank.com/assets/img/shortcutsWetr4.png?h=ed3fcb51b1e19ca5a70903ac11836334"
+        ],
+        "author": "Broank",
+        "download_urls" : {
+            "0.9": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.1": "https://google.com",
+            "0.5": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.7": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.2": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840"
+        },
+        "depiction_url": "https://broank.com/Wetr.html",
+        "min_version": 15.2,
+        "max_version": 16.0
+    },
+    {
+        "name": "Glance",
+        "description": "Add more Lock Screen power with Glance.",
+        "icon_url": "https://glance.broank.com/assets/img/PWAsm.png?h=d5f4d39550373c2927c8947422f933b1",
+        "screenshots" : [
+            "https://broank.com/assets/img/shortcutsHSC.png?h=d0e00736cc28a0ad6de4b1f8de8d4ec7"
+        ],
+        "author": "Broank",
+        "download_urls" : {
+            "0.9": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.1": "https://google.com",
+            "0.5": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.7": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.2": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840"
+        },
+        "depiction_url": "https://glance.broank.com",
+        "min_version": 15.2,
+        "max_version": 16.0
+    },
+    {
+        "name": "Test",
+        "description": "An awesome test!",
+        "icon_url": "https://avatars.githubusercontent.com/u/81449663?v=4",
+        "screenshots" : [
+            "https://broank.com/assets/img/shortcutsHSC.png?h=d0e00736cc28a0ad6de4b1f8de8d4ec7"
+        ],
+        "author": "Nightwind",
+        "download_urls" : {
+            "0.9": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.1": "https://google.com",
+            "0.5": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.7": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.2": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840"
+        },
+        "depiction_url": "https://glance.broank.com",
+        "min_version": 15.7,
+        "max_version": 16.0
+    },
+    {
+        "name": "Another Test",
+        "description": "Another awesome test!",
+        "icon_url": "https://avatars.githubusercontent.com/u/81449663?v=4",
+        "screenshots" : [
+            "https://broank.com/assets/img/shortcutsHSC.png?h=d0e00736cc28a0ad6de4b1f8de8d4ec7"
+        ],
+        "author": "Nightwind",
+        "download_urls" : {
+            "0.9": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.1": "https://google.com",
+            "0.5": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.7": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.2": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840"
+        },
+        "depiction_url": "https://glance.broank.com",
+        "min_version": 14.0,
+        "max_version": 15.4
+    }
+]
