@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Homescreen Creator",
+        "description": "An awesome enhancement to your homescreen!",
+        "icon_url": "https://broank.com/assets/img/TouchIcon.png?h=5df874cc087cb7ee45f004a8d58f9e1c",
+        "screenshots" : [
+            "https://broank.com/assets/img/shortcutsHSC.png?h=d0e00736cc28a0ad6de4b1f8de8d4ec7"
+        ],
+        "author": "Broank",
+        "download_urls" : {
+            "0.9": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.1": "https://google.com",
+            "0.5": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.7": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.2": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840"
+        },
+        "depiction_url": "https://broank.com/HSC.html",
+        "min_version": 15.2,
+        "max_version": 16.0
+    },
+    {
+        "name": "ClassicLS",
+        "description": "Make your Lockscreen nostalgic!",
+        "icon_url": "https://broank.com/assets/img/TouchIcon.png?h=5df874cc087cb7ee45f004a8d58f9e1c",
+        "screenshots" : [
+            "https://broank.com/assets/img/shortcutsHSC.png?h=d0e00736cc28a0ad6de4b1f8de8d4ec7"
+        ],
+        "author": "Broank",
+        "download_urls" : {
+            "0.9": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.1": "https://google.com",
+            "0.5": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.7": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840",
+            "0.2": "https://www.icloud.com/shortcuts/c88251e53df24a5884adaf9956d69840"
+        },
+        "depiction_url": "https://broank.com/Shortcuts.html",
+        "min_version": 15.2,
+        "max_version": 16.0
+    }
+]
